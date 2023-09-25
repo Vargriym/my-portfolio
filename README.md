@@ -1,11 +1,11 @@
 <p align="center">
     <img alt="https://github.com/Vargriym/my-portfolio/blob/master/header.png">
-    <h1 align="center">Modern Portfolio</h1>
+    <h1 align="center">A Minimal Portfolio</h1>
   </a>
 </p>
 
 <p align="center">
-  A minimal portfolio page, built with React and Tailwind.
+  A minimal portfolio website, built with React and Tailwind.
 </p>
 
 <p align="center">
