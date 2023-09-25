@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A minimal portfolio website, built with React and Tailwind.
+  An elegantly designed portfolio highlighting my projects, skillfully crafted using Tailwind and React.
 </p>
 
 <p align="center">
