@@ -29,8 +29,8 @@ https://moeboraidini.vercel.app
 A minimal portfolio to showcase a few projects. Built with Tailwind and React. 
 ## Features
 
-- Modern UI Design + Reveal Animations
 - Developed first with the Mobile First methodology, then for desktop.
+- Modern UI Design + Reveal Animations
 - Styled with Tailwind + Custom SCSS
 - Fully Responsive
 - Well-organized documentation
