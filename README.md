@@ -1,6 +1,6 @@
 <p align="center">
     <img alt="screenshot" src="https://github.com/Vargriym/my-portfolio/blob/master/header.png">
-    <h1 align="center">A Minimal Portfolio</h1>
+    <h1 align="center">Personal Portfolio</h1>
   </a>
 </p>
 
@@ -30,7 +30,7 @@ A minimal portfolio to showcase a few projects. Built with Tailwind and React.
 ## Features
 
 - Modern UI Design + Reveal Animations
-- One Page Layout
+- Developed first with the Mobile First methodology, then for desktop.
 - Styled with Tailwind + Custom SCSS
 - Fully Responsive
 - Well-organized documentation
