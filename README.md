@@ -1,11 +1,11 @@
 <p align="center">
-    <img alt="typing test screenshot" src="https://github.com/Vargriym/Insove/blob/master/cover.png">
-    <h1 align="center">Modern Healthcare Landing Page</h1>
+    <img alt="https://github.com/Vargriym/my-portfolio/blob/master/header.png">
+    <h1 align="center">Modern Portfolio</h1>
   </a>
 </p>
 
 <p align="center">
-  A modern healthcare landing page, built with Tailwind and Javascript.
+  A minimal portfolio page, built with React and Tailwind.
 </p>
 
 <p align="center">
@@ -20,22 +20,22 @@
 <br/>
 
 ## View Live
-https://insove-modern.vercel.app
+https://moeboraidini.vercel.app
 
 <!-- ABOUT THE PROJECT -->
 
 ## Introduction
 
 Insove’s website features dynamic images and color to engage the viewer. From the carousel beneath the header to other images throughout the site, the consistent use of rich, colorful photography helps promote a sense of excitement and optimism.
-## Key Achievements
+## Features
 
-Implemented responsive design techniques, resulting in a mobile-friendly website that enhanced accessibility and convenience for users.
-
-## Design File
-
-https://templatesjungle.com/downloads/insove-medical-healthcare-free-figma-website-template
+⚡️ Modern UI Design + Reveal Animations
+⚡️ One Page Layout
+⚡️ Styled with Tailwind + Custom SCSS
+⚡️ Fully Responsive
+⚡️ Well-organized documentation
 
 ## Tech stack
 
 - Tailwind
-- JavaScript
+- React
