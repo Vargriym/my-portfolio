@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="https://github.com/Vargriym/my-portfolio/blob/master/header.png">
+    <img alt="screenshot" src="https://github.com/Vargriym/my-portfolio/blob/master/header.png">
     <h1 align="center">A Minimal Portfolio</h1>
   </a>
 </p>
@@ -26,14 +26,14 @@ https://moeboraidini.vercel.app
 
 ## Introduction
 
-Insove’s website features dynamic images and color to engage the viewer. From the carousel beneath the header to other images throughout the site, the consistent use of rich, colorful photography helps promote a sense of excitement and optimism.
+A minimal portfolio to showcase a few projects. Built with Tailwind and React. 
 ## Features
 
-⚡️ Modern UI Design + Reveal Animations
-⚡️ One Page Layout
-⚡️ Styled with Tailwind + Custom SCSS
-⚡️ Fully Responsive
-⚡️ Well-organized documentation
+- Modern UI Design + Reveal Animations
+- One Page Layout
+- Styled with Tailwind + Custom SCSS
+- Fully Responsive
+- Well-organized documentation
 
 ## Tech stack
 
